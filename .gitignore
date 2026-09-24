@@ -1,0 +1,5 @@
+# 本地备份与系统生成文件
+*.before-*.html
+*.bak
+.DS_Store
+Thumbs.db
